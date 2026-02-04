@@ -15,4 +15,4 @@ France et Belgique).
 ## 🚀 Installation locale
 (À compléter plus tard)
 ## 👥 Auteur
-[Votre nom] - Projet CDA 2026
+NISHIMWE Irankunda Divine - Projet CDA 2026
